@@ -1,0 +1,19 @@
+{
+  "content": [
+    {
+      "path": "ContentInfo/mycompany-airport-ssbn-belem-novo/Thumbnail.jpg",
+      "size": 32688,
+      "date": 132443672846081405
+    },
+    {
+      "path": "manifest.json",
+      "size": 271,
+      "date": 132443677322498469
+    },
+    {
+      "path": "scenery/airport-ssbn-belem-novo.bgl",
+      "size": 54300,
+      "date": 132443678473984071
+    }
+  ]
+}

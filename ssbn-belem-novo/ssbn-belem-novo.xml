@@ -1,0 +1,8 @@
+<Project Version="2" Name="ssbn-belem-novo" FolderName="Packages">
+	<OutputDirectory>.</OutputDirectory>
+	<TemporaryOutputDirectory>_PackageInt</TemporaryOutputDirectory>
+	<Packages>
+		<Package>PackageDefinitions\mycompany-airport-ssbn-belem-novo.xml</Package>
+	</Packages>
+</Project>
+
