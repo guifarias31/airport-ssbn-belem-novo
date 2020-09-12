@@ -4,7 +4,7 @@ Converted by: GuiFarias31
 
 3Ds by: [felipega](https://forums.x-plane.org/index.php?/profile/385350-felipega/)
 
-Current version: v0.9.1. Image previews here: https://imgur.com/a/
+Current version: v0.9.1. Image preview here: https://imgur.com/a/Y6uGLuv
 
 Download link: https://github.com/guifarias31/airport-ssbn-belem-novo/releases/download/0.9.1/airport-ssbn-belem-novo.rar
 
