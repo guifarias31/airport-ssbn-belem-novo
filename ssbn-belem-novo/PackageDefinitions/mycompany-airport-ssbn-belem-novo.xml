@@ -1,4 +1,4 @@
-<AssetPackage Name="mycompany-airport-ssbn-belem-novo" Version="0.1.0">
+<AssetPackage Name="mycompany-airport-ssbn-belem-novo" Version="0.9.1">
 	<ItemSettings>
 		<ContentType>SCENERY</ContentType>
 		<Title/>
@@ -31,7 +31,7 @@
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageSources\modelLib</AssetDir>
+			<AssetDir>PackageSources\modelLib\</AssetDir>
 			<OutputDir>scenery\</OutputDir>
 		</AssetGroup>
 	</AssetGroups>

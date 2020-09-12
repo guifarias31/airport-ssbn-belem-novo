@@ -148,7 +148,7 @@
 	<SceneryObject lat="-30.18639403688129" lon="-51.18062831430647" alt="-1.00000000000000" pitch="0.001544" bank="-0.001544" heading="-18.604472" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{A2FF9981-6003-4EB5-A605-21A690CC4EC8}" scale="1.000000"/>
 	</SceneryObject>
-	<Airport country="Brazil" state="Rio Grande do Sul" name="Aeroclube do Rio Grande do Sul" ident="SSBN" lat="-30.18726116119886" lon="-51.17946684222002" alt="5.78975556045771" magvar="0.000000" trafficScalar="0.100000" airportTestRadius="2000.00000000000000" applyFlatten="TRUE" isOnTIN="FALSE">
+	<Airport country="Brazil" state="Rio Grande do Sul" city="Porto Alegre" name="Aeroclube do Rio Grande do Sul" ident="SSBN" lat="-30.18726116119886" lon="-51.17946684222002" alt="5.78975556045771" magvar="0.000000" trafficScalar="0.100000" airportTestRadius="2000.00000000000000" applyFlatten="TRUE" isOnTIN="FALSE">
 		<TaxiwayParking index="0" type="RAMP_GA_SMALL" lat="-30.18676952237762" lon="-51.17997275145578" heading="161.257996" radius="5.000000" name="PARKING" number="1" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
 		<TaxiwayParking index="1" type="RAMP_GA_SMALL" lat="-30.18681805017533" lon="-51.18014451762416" heading="161.257996" radius="5.000000" name="PARKING" number="2" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
 		<TaxiwayParking index="2" type="RAMP_GA_SMALL" lat="-30.18702898384540" lon="-51.18006880309699" heading="341.257996" radius="5.000000" name="PARKING" number="3" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
@@ -728,7 +728,7 @@
 			</PaintedLine>
 		</PaintedElements>
 		<ApronEdgeLights/>
-		<DeleteAirport deleteAllApproaches="FALSE" deleteAllApronLights="FALSE" deleteAllAprons="TRUE" deleteAllFrequencies="FALSE" deleteAllHelipads="FALSE" deleteAllRunways="TRUE" deleteAllStarts="TRUE" deleteAllTaxiways="FALSE" deleteAllBlastFences="FALSE" deleteAllBoundaryFences="FALSE" deleteAllJetways="TRUE" deleteAllControlTowers="TRUE" deleteAllDepartures="FALSE" deleteAllArrivals="FALSE" deleteAllPaintedElements="FALSE" deleteAllLightSupports="FALSE" deleteAllTaxiwaySigns="FALSE" deleteAllILSs="TRUE" deleteAllTerminalWaypoints="FALSE" deleteAllTerminalNDBs="FALSE"/>
+		<DeleteAirport deleteAllApproaches="FALSE" deleteAllApronLights="TRUE" deleteAllAprons="TRUE" deleteAllFrequencies="FALSE" deleteAllHelipads="TRUE" deleteAllRunways="TRUE" deleteAllStarts="TRUE" deleteAllTaxiways="TRUE" deleteAllBlastFences="FALSE" deleteAllBoundaryFences="FALSE" deleteAllJetways="TRUE" deleteAllControlTowers="TRUE" deleteAllDepartures="FALSE" deleteAllArrivals="FALSE" deleteAllPaintedElements="TRUE" deleteAllLightSupports="FALSE" deleteAllTaxiwaySigns="TRUE" deleteAllILSs="TRUE" deleteAllTerminalWaypoints="FALSE" deleteAllTerminalNDBs="FALSE"/>
 	</Airport>
 </FSData>
 
