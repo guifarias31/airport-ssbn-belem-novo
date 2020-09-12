@@ -6,7 +6,7 @@ Converted by: GuiFarias31
 
 Current version: v0.9.1. Image previews here: https://imgur.com/a/
 
-Download link: 
+Download link: https://github.com/guifarias31/airport-ssbn-belem-novo/releases/download/0.9.1/airport-ssbn-belem-novo.rar
 
 INSTALLATION INSTRUCTIONS
 
