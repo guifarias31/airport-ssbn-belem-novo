@@ -15,24 +15,24 @@
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageDefinitions\mycompany-airport-ssbn-belem-novo\ContentInfo</AssetDir>
-			<OutputDir>ContentInfo\mycompany-airport-ssbn-belem-novo</OutputDir>
+			<AssetDir>PackageDefinitions\mycompany-airport-ssbn-belem-novo\ContentInfo\</AssetDir>
+			<OutputDir>ContentInfo\mycompany-airport-ssbn-belem-novo\</OutputDir>
 		</AssetGroup>
 		<AssetGroup Name="airport-ssbn-belem-novo">
 			<Type>BGL</Type>
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageSources\data</AssetDir>
-			<OutputDir>scenery</OutputDir>
+			<AssetDir>PackageSources\data\</AssetDir>
+			<OutputDir>scenery\</OutputDir>
+		</AssetGroup>
 		<AssetGroup Name="mymodellib">
 			<Type>ArtProj</Type>
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageSources\modelLib\</AssetDir>
+			<AssetDir>PackageSources\modelLib</AssetDir>
 			<OutputDir>scenery\</OutputDir>
-		</AssetGroup>
 		</AssetGroup>
 	</AssetGroups>
 </AssetPackage>

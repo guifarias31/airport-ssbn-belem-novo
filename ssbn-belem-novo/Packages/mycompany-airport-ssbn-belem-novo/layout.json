@@ -8,12 +8,52 @@
     {
       "path": "manifest.json",
       "size": 271,
-      "date": 132443677322498469
+      "date": 132444136461533827
     },
     {
       "path": "scenery/airport-ssbn-belem-novo.bgl",
-      "size": 54300,
-      "date": 132443678473984071
+      "size": 64196,
+      "date": 132444139096741012
+    },
+    {
+      "path": "scenery/AIRPORT-SSBN-POLY.BGL",
+      "size": 3193,
+      "date": 132444139097011060
+    },
+    {
+      "path": "scenery/modelLib.BGL",
+      "size": 64940,
+      "date": 132444068110719371
+    },
+    {
+      "path": "scenery/TEXTURE/FENCE.PNG.DDS",
+      "size": 1398256,
+      "date": 132444068108343954
+    },
+    {
+      "path": "scenery/TEXTURE/FENCE.PNG.DDS.json",
+      "size": 119,
+      "date": 132444068108288944
+    },
+    {
+      "path": "scenery/TEXTURE/H1H2.PNG.DDS",
+      "size": 1398256,
+      "date": 132444068109879225
+    },
+    {
+      "path": "scenery/TEXTURE/H1H2.PNG.DDS.json",
+      "size": 119,
+      "date": 132444068109829214
+    },
+    {
+      "path": "scenery/TEXTURE/PARKBENCH.PNG.DDS",
+      "size": 43832,
+      "date": 132444068110324302
+    },
+    {
+      "path": "scenery/TEXTURE/PARKBENCH.PNG.DDS.json",
+      "size": 102,
+      "date": 132444068110274296
     }
   ]
 }
