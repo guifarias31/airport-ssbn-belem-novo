@@ -100,8 +100,7 @@
         0.0,
         0.0,
         0.0
-      ],
-      "alphaMode": "BLEND"
+      ]
     }
   ],
   "textures": [
@@ -112,7 +111,7 @@
   ],
   "images": [
     {
-      "uri": "h1h2.png"
+      "uri": "..\\texture\\h1h2.png"
     }
   ],
   "bufferViews": [
@@ -140,7 +139,7 @@
   "buffers": [
     {
       "byteLength": 6416,
-      "uri": "h2.bin"
+      "uri": "H2.bin"
     }
   ]
 }
