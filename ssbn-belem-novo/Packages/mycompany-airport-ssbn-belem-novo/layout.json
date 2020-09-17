@@ -8,12 +8,12 @@
     {
       "path": "manifest.json",
       "size": 271,
-      "date": 132446238880234496
+      "date": 132446242364440226
     },
     {
       "path": "scenery/airport-ssbn-belem-novo.bgl",
-      "size": 64336,
-      "date": 132446242214091792
+      "size": 64364,
+      "date": 132447599372201448
     },
     {
       "path": "scenery/AIRPORT-SSBN-POLY.BGL",
@@ -23,7 +23,7 @@
     {
       "path": "scenery/modelLib.BGL",
       "size": 64924,
-      "date": 132446238880034461
+      "date": 132447599373066196
     },
     {
       "path": "scenery/TEXTURE/FENCE.PNG.DDS",
@@ -44,11 +44,6 @@
       "path": "scenery/TEXTURE/H1H2.PNG.DDS.json",
       "size": 102,
       "date": 132446233935418852
-    },
-    {
-      "path": "scenery/TEXTURE/H1H2.PNG.rar",
-      "size": 430535,
-      "date": 132444390625339088
     },
     {
       "path": "scenery/TEXTURE/PARKBENCH.PNG.DDS",

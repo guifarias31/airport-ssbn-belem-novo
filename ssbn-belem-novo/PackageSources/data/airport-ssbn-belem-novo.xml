@@ -157,6 +157,7 @@
 		<LibraryObject name="{EA41061D-4AC8-45DA-8F49-701FCF96CC61}" scale="1.000000"/>
 	</SceneryObject>
 	<Airport country="Brazil" state="Rio Grande do Sul" city="Porto Alegre" name="Aeroclube do Rio Grande do Sul" ident="SSBN" lat="-30.18726116119886" lon="-51.17946684222002" alt="5.78975556045771" magvar="0.000000" trafficScalar="0.100000" airportTestRadius="2000.00000000000000" applyFlatten="TRUE" isOnTIN="FALSE">
+		<Com frequency="131.5" type="CTAF" name="FCA Belem Novo"/>
 		<TaxiwayParking index="0" type="RAMP_GA_SMALL" lat="-30.18678240896662" lon="-51.17999315039405" heading="161.257996" radius="5.000000" name="PARKING" number="1" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
 		<TaxiwayParking index="1" type="RAMP_GA_SMALL" lat="-30.18682768032358" lon="-51.18014758495192" heading="161.257996" radius="5.000000" name="PARKING" number="2" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
 		<TaxiwayParking index="2" type="RAMP_GA_SMALL" lat="-30.18698407822269" lon="-51.17989196869649" heading="341.257996" radius="5.000000" name="PARKING" number="3" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
