@@ -90,7 +90,7 @@
           1.0,
           1.0
         ],
-        "roughnessFactor": 0.0,
+        "roughnessFactor": 1.0,
         "metallicFactor": 0.0,
         "baseColorTexture": {
           "index": 0
@@ -111,7 +111,7 @@
   ],
   "images": [
     {
-      "uri": "..\\texture\\h1h2.png"
+      "uri": "h1h2.png"
     }
   ],
   "bufferViews": [

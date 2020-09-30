@@ -7,8 +7,8 @@
     },
     {
       "path": "manifest.json",
-      "size": 271,
-      "date": 132446242364440226
+      "size": 279,
+      "date": 132459016579480360
     },
     {
       "path": "scenery/airport-ssbn-belem-novo.bgl",
@@ -22,8 +22,43 @@
     },
     {
       "path": "scenery/modelLib.BGL",
-      "size": 64924,
-      "date": 132447599373066196
+      "size": 64852,
+      "date": 132459016579313741
+    },
+    {
+      "path": "scenery/scenery/global/scenery/modelLib.BGL",
+      "size": 64852,
+      "date": 132459612991257570
+    },
+    {
+      "path": "scenery/scenery/global/scenery/TEXTURE/FENCE.PNG.DDS",
+      "size": 1398256,
+      "date": 132459612989207210
+    },
+    {
+      "path": "scenery/scenery/global/scenery/TEXTURE/FENCE.PNG.DDS.json",
+      "size": 119,
+      "date": 132459612989157204
+    },
+    {
+      "path": "scenery/scenery/global/scenery/TEXTURE/H1H2.PNG.DDS",
+      "size": 699192,
+      "date": 132459612990542444
+    },
+    {
+      "path": "scenery/scenery/global/scenery/TEXTURE/H1H2.PNG.DDS.json",
+      "size": 102,
+      "date": 132459612990497435
+    },
+    {
+      "path": "scenery/scenery/global/scenery/TEXTURE/PARKBENCH.PNG.DDS",
+      "size": 43832,
+      "date": 132459612990832496
+    },
+    {
+      "path": "scenery/scenery/global/scenery/TEXTURE/PARKBENCH.PNG.DDS.json",
+      "size": 102,
+      "date": 132459612990797489
     },
     {
       "path": "scenery/TEXTURE/FENCE.PNG.DDS",
