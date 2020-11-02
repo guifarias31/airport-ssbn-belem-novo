@@ -1,39 +1,46 @@
 <Timestamps>
-	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\ssbn-belem-novo\Packages\mycompany-airport-ssbn-belem-novo\scenery\scenery\global\scenery\TEXTURE\H1H2.PNG.DDS" Timestamp="13245961299" NbSourceFile="1"/>
+	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\ssbn-belem-novo\Packages\mycompany-airport-ssbn-belem-novo\scenery\scenery\global\scenery\TEXTURE\H1H2.PNG.DDS" Timestamp="13245961299" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\ssbn-belem-novo\_PackageInt\_tempFiles\mycompany-airport-ssbn-belem-novo\mymodellib\H2\H2.bin" Timestamp="13245901657" NbSourceFile="2"/>
-	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\ssbn-belem-novo\Packages\mycompany-airport-ssbn-belem-novo\scenery\scenery\global\scenery\modelLib.BGL" Timestamp="13245961299" NbSourceFile="0"/>
+	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\ssbn-belem-novo\Packages\mycompany-airport-ssbn-belem-novo\scenery\scenery\global\scenery\modelLib.BGL" Timestamp="13245961299" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\ssbn-belem-novo\_PackageInt\_tempFiles\mycompany-airport-ssbn-belem-novo\mymodellib\Park_Bench_Green\Park_Bench_Green.gltf" Timestamp="13244406811" NbSourceFile="2"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\ssbn-belem-novo\_PackageInt\_tempFiles\mycompany-airport-ssbn-belem-novo\mymodellib\H2\H2.xml" Timestamp="13244623760" NbSourceFile="1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\ssbn-belem-novo\_PackageInt\_tempFiles\mycompany-airport-ssbn-belem-novo\mymodellib\hangar\h1.bin" Timestamp="13244533938" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\ssbn-belem-novo\_PackageInt\_tempFiles\mycompany-airport-ssbn-belem-novo\mymodellib\hangar\h1.xml" Timestamp="13244533073" NbSourceFile="-1"/>
+	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\ssbn-belem-novo\Packages\mycompany-airport-ssbn-belem-novo\scenery\mycompany\modelLib.BGL" Timestamp="13248762558" NbSourceFile="0"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\ssbn-belem-novo\_PackageInt\_tempFiles\mycompany-airport-ssbn-belem-novo\mymodellib\Park_Bench_Green\Park_Bench_Green.xml" Timestamp="13244367108" NbSourceFile="1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\ssbn-belem-novo\_PackageInt\_tempFiles\mycompany-airport-ssbn-belem-novo\mymodellib\h1\h1.gltf" Timestamp="13245901657" NbSourceFile="2"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\ssbn-belem-novo\_PackageInt\_tempFiles\mycompany-airport-ssbn-belem-novo\mymodellib\hangar\H2.xml" Timestamp="13244533125" NbSourceFile="-1"/>
-	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\ssbn-belem-novo\Packages\mycompany-airport-ssbn-belem-novo\scenery\scenery\global\scenery\TEXTURE\PARKBENCH.PNG.DDS.json" Timestamp="13245961299" NbSourceFile="1"/>
+	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\ssbn-belem-novo\Packages\mycompany-airport-ssbn-belem-novo\scenery\scenery\global\scenery\TEXTURE\PARKBENCH.PNG.DDS.json" Timestamp="13245961299" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\ssbn-belem-novo\_PackageInt\_tempFiles\mycompany-airport-ssbn-belem-novo\mymodellib\h2\H2.xml" Timestamp="13244533125" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\ssbn-belem-novo\Packages\mycompany-airport-ssbn-belem-novo\scenery\TEXTURE\H1H2.PNG.DDS.json" Timestamp="13244623393" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\ssbn-belem-novo\_PackageInt\_tempFiles\mycompany-airport-ssbn-belem-novo\mymodellib\H2\h2.bin" Timestamp="13244620490" NbSourceFile="-1"/>
+	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\ssbn-belem-novo\Packages\mycompany-airport-ssbn-belem-novo\scenery\mycompany\TEXTURE\PARKBENCH.PNG.DDS.json" Timestamp="13248762558" NbSourceFile="1"/>
+	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\ssbn-belem-novo\Packages\mycompany-airport-ssbn-belem-novo\scenery\mycompany\TEXTURE\PARKBENCH.PNG.DDS" Timestamp="13248762558" NbSourceFile="1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\ssbn-belem-novo\_PackageInt\_tempFiles\mycompany-airport-ssbn-belem-novo\mymodellib\Barbed_Wire_Fence_Wide\Barbed_Wire_Fence_Wide.xml" Timestamp="13244367090" NbSourceFile="1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\ssbn-belem-novo\_PackageInt\_tempFiles\mycompany-airport-ssbn-belem-novo\mymodellib\Park_Bench_Green\Park_Bench_Green.bin" Timestamp="13244406811" NbSourceFile="2"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\ssbn-belem-novo\_PackageInt\_tempFiles\mycompany-airport-ssbn-belem-novo\mymodellib\hangar\H2.gltf" Timestamp="13244533938" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\ssbn-belem-novo\_PackageInt\_tempFiles\mycompany-airport-ssbn-belem-novo\mymodellib\H2\H2.gltf" Timestamp="13245901657" NbSourceFile="2"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\ssbn-belem-novo\_PackageInt\_tempFiles\mycompany-airport-ssbn-belem-novo\mymodellib\h1\h1.xml" Timestamp="13244623814" NbSourceFile="1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\ssbn-belem-novo\_PackageInt\_tempFiles\mycompany-airport-ssbn-belem-novo\mymodellib\h1\h1.bin" Timestamp="13245901657" NbSourceFile="2"/>
-	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\ssbn-belem-novo\Packages\mycompany-airport-ssbn-belem-novo\scenery\scenery\global\scenery\TEXTURE\H1H2.PNG.DDS.json" Timestamp="13245961299" NbSourceFile="1"/>
+	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\ssbn-belem-novo\Packages\mycompany-airport-ssbn-belem-novo\scenery\mycompany\TEXTURE\H1H2.PNG.DDS" Timestamp="13248762558" NbSourceFile="1"/>
+	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\ssbn-belem-novo\Packages\mycompany-airport-ssbn-belem-novo\scenery\scenery\global\scenery\TEXTURE\H1H2.PNG.DDS.json" Timestamp="13245961299" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\ssbn-belem-novo\Packages\mycompany-airport-ssbn-belem-novo\scenery\TEXTURE\H1H2.PNG.DDS" Timestamp="13244623393" NbSourceFile="-1"/>
+	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\ssbn-belem-novo\Packages\mycompany-airport-ssbn-belem-novo\scenery\mycompany\TEXTURE\H1H2.PNG.DDS.json" Timestamp="13248762558" NbSourceFile="1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\ssbn-belem-novo\_PackageInt\_tempFiles\mycompany-airport-ssbn-belem-novo\mymodellib\h2\H2.bin" Timestamp="13244533812" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\ssbn-belem-novo\_PackageInt\_tempFiles\mycompany-airport-ssbn-belem-novo\mymodellib\hangar\H2.bin" Timestamp="13244533938" NbSourceFile="-1"/>
-	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\ssbn-belem-novo\Packages\mycompany-airport-ssbn-belem-novo\scenery\scenery\global\scenery\TEXTURE\FENCE.PNG.DDS.json" Timestamp="13245961298" NbSourceFile="1"/>
+	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\ssbn-belem-novo\Packages\mycompany-airport-ssbn-belem-novo\scenery\mycompany\TEXTURE\FENCE.PNG.DDS.json" Timestamp="13248762558" NbSourceFile="1"/>
+	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\ssbn-belem-novo\Packages\mycompany-airport-ssbn-belem-novo\scenery\scenery\global\scenery\TEXTURE\FENCE.PNG.DDS.json" Timestamp="13245961298" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\ssbn-belem-novo\Packages\mycompany-airport-ssbn-belem-novo\scenery\TEXTURE\FENCE.PNG.DDS" Timestamp="13244406810" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\ssbn-belem-novo\_PackageInt\_tempFiles\mycompany-airport-ssbn-belem-novo\mymodellib\H2\h2.xml" Timestamp="13244620088" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\ssbn-belem-novo\_PackageInt\_tempFiles\mycompany-airport-ssbn-belem-novo\mymodellib\Barbed_Wire_Fence_Wide\Barbed_Wire_Fence_Wide.bin" Timestamp="13244406810" NbSourceFile="2"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\ssbn-belem-novo\_PackageInt\_tempFiles\mycompany-airport-ssbn-belem-novo\mymodellib\hangar\h1.gltf" Timestamp="13244533938" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\ssbn-belem-novo\_PackageInt\_tempFiles\mycompany-airport-ssbn-belem-novo\mymodellib\h2\H2.gltf" Timestamp="13244533812" NbSourceFile="-1"/>
+	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\ssbn-belem-novo\Packages\mycompany-airport-ssbn-belem-novo\scenery\mycompany\TEXTURE\FENCE.PNG.DDS" Timestamp="13248762558" NbSourceFile="1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\ssbn-belem-novo\Packages\mycompany-airport-ssbn-belem-novo\scenery\TEXTURE\FENCE.PNG.DDS.json" Timestamp="13244406810" NbSourceFile="-1"/>
-	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\ssbn-belem-novo\Packages\mycompany-airport-ssbn-belem-novo\scenery\scenery\global\scenery\TEXTURE\PARKBENCH.PNG.DDS" Timestamp="13245961299" NbSourceFile="1"/>
+	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\ssbn-belem-novo\Packages\mycompany-airport-ssbn-belem-novo\scenery\scenery\global\scenery\TEXTURE\PARKBENCH.PNG.DDS" Timestamp="13245961299" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\ssbn-belem-novo\Packages\mycompany-airport-ssbn-belem-novo\scenery\TEXTURE\PARKBENCH.PNG.DDS.json" Timestamp="13244406811" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\ssbn-belem-novo\_PackageInt\_tempFiles\mycompany-airport-ssbn-belem-novo\mymodellib\H2\h2.gltf" Timestamp="13244620490" NbSourceFile="-1"/>
-	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\ssbn-belem-novo\Packages\mycompany-airport-ssbn-belem-novo\scenery\scenery\global\scenery\TEXTURE\FENCE.PNG.DDS" Timestamp="13245961298" NbSourceFile="1"/>
+	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\ssbn-belem-novo\Packages\mycompany-airport-ssbn-belem-novo\scenery\scenery\global\scenery\TEXTURE\FENCE.PNG.DDS" Timestamp="13245961298" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\ssbn-belem-novo\Packages\mycompany-airport-ssbn-belem-novo\scenery\modelLib.BGL" Timestamp="13245901657" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\ssbn-belem-novo\_PackageInt\_tempFiles\mycompany-airport-ssbn-belem-novo\mymodellib\Barbed_Wire_Fence_Wide\Barbed_Wire_Fence_Wide.gltf" Timestamp="13244406810" NbSourceFile="2"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\ssbn-belem-novo\Packages\mycompany-airport-ssbn-belem-novo\scenery\TEXTURE\PARKBENCH.PNG.DDS" Timestamp="13244406811" NbSourceFile="-1"/>

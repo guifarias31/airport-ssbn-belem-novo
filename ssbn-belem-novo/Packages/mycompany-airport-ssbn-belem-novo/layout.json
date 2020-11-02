@@ -6,89 +6,49 @@
       "date": 132443672846081405
     },
     {
-      "path": "manifest.json",
-      "size": 279,
-      "date": 132459016579480360
-    },
-    {
-      "path": "scenery/airport-ssbn-belem-novo.bgl",
+      "path": "scenery/global/scenery/airport-ssbn-belem-novo.bgl",
       "size": 64364,
-      "date": 132447599372201448
+      "date": 132487625583784076
     },
     {
-      "path": "scenery/AIRPORT-SSBN-POLY.BGL",
+      "path": "scenery/global/scenery/AIRPORT-SSBN-POLY.BGL",
       "size": 3193,
-      "date": 132446242214391854
+      "date": 132487625585066133
     },
     {
-      "path": "scenery/modelLib.BGL",
+      "path": "scenery/mycompany/modelLib.BGL",
       "size": 64852,
-      "date": 132459016579313741
+      "date": 132487625588304882
     },
     {
-      "path": "scenery/scenery/global/scenery/modelLib.BGL",
-      "size": 64852,
-      "date": 132459612991257570
-    },
-    {
-      "path": "scenery/scenery/global/scenery/TEXTURE/FENCE.PNG.DDS",
+      "path": "scenery/mycompany/TEXTURE/FENCE.PNG.DDS",
       "size": 1398256,
-      "date": 132459612989207210
+      "date": 132487625586374544
     },
     {
-      "path": "scenery/scenery/global/scenery/TEXTURE/FENCE.PNG.DDS.json",
+      "path": "scenery/mycompany/TEXTURE/FENCE.PNG.DDS.json",
       "size": 119,
-      "date": 132459612989157204
+      "date": 132487625586319536
     },
     {
-      "path": "scenery/scenery/global/scenery/TEXTURE/H1H2.PNG.DDS",
+      "path": "scenery/mycompany/TEXTURE/H1H2.PNG.DDS",
       "size": 699192,
-      "date": 132459612990542444
+      "date": 132487625587639765
     },
     {
-      "path": "scenery/scenery/global/scenery/TEXTURE/H1H2.PNG.DDS.json",
+      "path": "scenery/mycompany/TEXTURE/H1H2.PNG.DDS.json",
       "size": 102,
-      "date": 132459612990497435
+      "date": 132487625587584756
     },
     {
-      "path": "scenery/scenery/global/scenery/TEXTURE/PARKBENCH.PNG.DDS",
+      "path": "scenery/mycompany/TEXTURE/PARKBENCH.PNG.DDS",
       "size": 43832,
-      "date": 132459612990832496
+      "date": 132487625587939819
     },
     {
-      "path": "scenery/scenery/global/scenery/TEXTURE/PARKBENCH.PNG.DDS.json",
+      "path": "scenery/mycompany/TEXTURE/PARKBENCH.PNG.DDS.json",
       "size": 102,
-      "date": 132459612990797489
-    },
-    {
-      "path": "scenery/TEXTURE/FENCE.PNG.DDS",
-      "size": 1398256,
-      "date": 132444068108343954
-    },
-    {
-      "path": "scenery/TEXTURE/FENCE.PNG.DDS.json",
-      "size": 119,
-      "date": 132444068108288944
-    },
-    {
-      "path": "scenery/TEXTURE/H1H2.PNG.DDS",
-      "size": 699192,
-      "date": 132446233935488865
-    },
-    {
-      "path": "scenery/TEXTURE/H1H2.PNG.DDS.json",
-      "size": 102,
-      "date": 132446233935418852
-    },
-    {
-      "path": "scenery/TEXTURE/PARKBENCH.PNG.DDS",
-      "size": 43832,
-      "date": 132444068110324302
-    },
-    {
-      "path": "scenery/TEXTURE/PARKBENCH.PNG.DDS.json",
-      "size": 102,
-      "date": 132444068110274296
+      "date": 132487625587894809
     }
   ]
 }

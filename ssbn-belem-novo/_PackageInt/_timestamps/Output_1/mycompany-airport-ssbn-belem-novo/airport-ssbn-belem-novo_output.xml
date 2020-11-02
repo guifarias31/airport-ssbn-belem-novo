@@ -1,5 +1,7 @@
 <Timestamps>
-	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\ssbn-belem-novo\Packages\mycompany-airport-ssbn-belem-novo\scenery\airport-ssbn-belem-novo.bgl" Timestamp="13244759937" NbSourceFile="1"/>
-	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\ssbn-belem-novo\Packages\mycompany-airport-ssbn-belem-novo\scenery\airport-ssbn-poly.bgl" Timestamp="13244624221" NbSourceFile="4"/>
+	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\ssbn-belem-novo\Packages\mycompany-airport-ssbn-belem-novo\scenery\airport-ssbn-belem-novo.bgl" Timestamp="13244759937" NbSourceFile="-1"/>
+	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\ssbn-belem-novo\Packages\mycompany-airport-ssbn-belem-novo\scenery\global\scenery\airport-ssbn-poly.bgl" Timestamp="13248762558" NbSourceFile="4"/>
+	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\ssbn-belem-novo\Packages\mycompany-airport-ssbn-belem-novo\scenery\airport-ssbn-poly.bgl" Timestamp="13244624221" NbSourceFile="-1"/>
+	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\ssbn-belem-novo\Packages\mycompany-airport-ssbn-belem-novo\scenery\global\scenery\airport-ssbn-belem-novo.bgl" Timestamp="13248762558" NbSourceFile="1"/>
 </Timestamps>
 
